@@ -1,0 +1,17 @@
+{
+    "name": "zhaoest",
+    "comName":"Zhaoest",
+    "version": "1.0",
+    "desc": "",
+    "tag":"旺店营销宝,kissy-mini",
+    "githubName":"zhaoest",
+    "author": {
+        "name": "tao21",
+        "email": "zhaoest@126.com",
+        "page": ""
+    },
+	"flexComboPort":"8081",
+	"reserveServerPort":"8080",
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
