@@ -8,7 +8,7 @@ KISSY.add(function (S, Node,Base) {
 		this.size           = size; // Size of the grid
 		this.inputManager   = new KeyboardInputManager();
 		this.storageManager = new LocalStorageManager();
-		this.actuator       = new HTMLActuator();1
+		this.actuator       = new HTMLActuator();
 		
 		this.startTiles     = 2;
 
