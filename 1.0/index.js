@@ -2,10 +2,10 @@
 KISSY.add(function (S, Node,Base) {
     var EMPTY = '';
     var $ = Node.all;
-    function Zhaoest(size) {
+    function Zhaoest() {
 	
 		
-		this.size           = size; // Size of the grid
+		this.size           = 4; // Size of the grid
 		this.inputManager   = new KeyboardInputManager();
 		this.storageManager = new LocalStorageManager();
 		this.actuator       = new HTMLActuator();
